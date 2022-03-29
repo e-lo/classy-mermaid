@@ -1,0 +1,8 @@
+black[development]
+jupyter-notebook[jupyter]
+markdown
+mkdocs
+mkdocstrings[development]
+nb-mermaid[jupyter]
+networkx
+pytest[development]
